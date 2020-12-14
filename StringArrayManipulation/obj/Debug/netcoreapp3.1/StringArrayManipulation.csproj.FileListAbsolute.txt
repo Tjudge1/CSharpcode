@@ -1,0 +1,12 @@
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/StringArrayManipulation/bin/Debug/netcoreapp3.1/StringArrayManipulation.deps.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/StringArrayManipulation/bin/Debug/netcoreapp3.1/StringArrayManipulation.runtimeconfig.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/StringArrayManipulation/bin/Debug/netcoreapp3.1/StringArrayManipulation.runtimeconfig.dev.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/StringArrayManipulation/bin/Debug/netcoreapp3.1/StringArrayManipulation.dll
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/StringArrayManipulation/bin/Debug/netcoreapp3.1/StringArrayManipulation.pdb
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/StringArrayManipulation/obj/Debug/netcoreapp3.1/StringArrayManipulation.csprojAssemblyReference.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/StringArrayManipulation/obj/Debug/netcoreapp3.1/StringArrayManipulation.AssemblyInfoInputs.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/StringArrayManipulation/obj/Debug/netcoreapp3.1/StringArrayManipulation.AssemblyInfo.cs
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/StringArrayManipulation/obj/Debug/netcoreapp3.1/StringArrayManipulation.csproj.CoreCompileInputs.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/StringArrayManipulation/obj/Debug/netcoreapp3.1/StringArrayManipulation.dll
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/StringArrayManipulation/obj/Debug/netcoreapp3.1/StringArrayManipulation.pdb
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/StringArrayManipulation/obj/Debug/netcoreapp3.1/StringArrayManipulation.genruntimeconfig.cache

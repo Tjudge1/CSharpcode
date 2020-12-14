@@ -1,0 +1,12 @@
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/CompareTriplets/bin/Debug/netcoreapp3.1/CompareTriplets.deps.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/CompareTriplets/bin/Debug/netcoreapp3.1/CompareTriplets.runtimeconfig.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/CompareTriplets/bin/Debug/netcoreapp3.1/CompareTriplets.runtimeconfig.dev.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/CompareTriplets/bin/Debug/netcoreapp3.1/CompareTriplets.dll
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/CompareTriplets/bin/Debug/netcoreapp3.1/CompareTriplets.pdb
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/CompareTriplets/obj/Debug/netcoreapp3.1/CompareTriplets.csprojAssemblyReference.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/CompareTriplets/obj/Debug/netcoreapp3.1/CompareTriplets.AssemblyInfoInputs.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/CompareTriplets/obj/Debug/netcoreapp3.1/CompareTriplets.AssemblyInfo.cs
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/CompareTriplets/obj/Debug/netcoreapp3.1/CompareTriplets.csproj.CoreCompileInputs.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/CompareTriplets/obj/Debug/netcoreapp3.1/CompareTriplets.dll
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/CompareTriplets/obj/Debug/netcoreapp3.1/CompareTriplets.pdb
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/CompareTriplets/obj/Debug/netcoreapp3.1/CompareTriplets.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Generics Practice/bin/Debug/netcoreapp3.1/Generics Practice.deps.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Generics Practice/bin/Debug/netcoreapp3.1/Generics Practice.runtimeconfig.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Generics Practice/bin/Debug/netcoreapp3.1/Generics Practice.runtimeconfig.dev.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Generics Practice/bin/Debug/netcoreapp3.1/Generics Practice.dll
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Generics Practice/bin/Debug/netcoreapp3.1/Generics Practice.pdb
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Generics Practice/obj/Debug/netcoreapp3.1/Generics Practice.csprojAssemblyReference.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Generics Practice/obj/Debug/netcoreapp3.1/Generics Practice.AssemblyInfoInputs.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Generics Practice/obj/Debug/netcoreapp3.1/Generics Practice.AssemblyInfo.cs
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Generics Practice/obj/Debug/netcoreapp3.1/Generics Practice.csproj.CoreCompileInputs.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Generics Practice/obj/Debug/netcoreapp3.1/Generics Practice.dll
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Generics Practice/obj/Debug/netcoreapp3.1/Generics Practice.pdb
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Generics Practice/obj/Debug/netcoreapp3.1/Generics Practice.genruntimeconfig.cache

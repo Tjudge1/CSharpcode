@@ -1,0 +1,12 @@
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/ReturnSumsToString/bin/Debug/netcoreapp3.1/ReturnSumsToString.deps.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/ReturnSumsToString/bin/Debug/netcoreapp3.1/ReturnSumsToString.runtimeconfig.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/ReturnSumsToString/bin/Debug/netcoreapp3.1/ReturnSumsToString.runtimeconfig.dev.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/ReturnSumsToString/bin/Debug/netcoreapp3.1/ReturnSumsToString.dll
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/ReturnSumsToString/bin/Debug/netcoreapp3.1/ReturnSumsToString.pdb
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/ReturnSumsToString/obj/Debug/netcoreapp3.1/ReturnSumsToString.csprojAssemblyReference.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/ReturnSumsToString/obj/Debug/netcoreapp3.1/ReturnSumsToString.AssemblyInfoInputs.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/ReturnSumsToString/obj/Debug/netcoreapp3.1/ReturnSumsToString.AssemblyInfo.cs
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/ReturnSumsToString/obj/Debug/netcoreapp3.1/ReturnSumsToString.csproj.CoreCompileInputs.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/ReturnSumsToString/obj/Debug/netcoreapp3.1/ReturnSumsToString.dll
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/ReturnSumsToString/obj/Debug/netcoreapp3.1/ReturnSumsToString.pdb
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/ReturnSumsToString/obj/Debug/netcoreapp3.1/ReturnSumsToString.genruntimeconfig.cache

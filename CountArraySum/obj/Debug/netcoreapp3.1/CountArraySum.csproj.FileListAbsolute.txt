@@ -1,0 +1,12 @@
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/bin/Debug/netcoreapp3.1/CountArraySum.deps.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/bin/Debug/netcoreapp3.1/CountArraySum.runtimeconfig.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/bin/Debug/netcoreapp3.1/CountArraySum.runtimeconfig.dev.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/bin/Debug/netcoreapp3.1/CountArraySum.dll
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/bin/Debug/netcoreapp3.1/CountArraySum.pdb
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/obj/Debug/netcoreapp3.1/CountArraySum.csprojAssemblyReference.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/obj/Debug/netcoreapp3.1/CountArraySum.AssemblyInfoInputs.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/obj/Debug/netcoreapp3.1/CountArraySum.AssemblyInfo.cs
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/obj/Debug/netcoreapp3.1/CountArraySum.csproj.CoreCompileInputs.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/obj/Debug/netcoreapp3.1/CountArraySum.dll
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/obj/Debug/netcoreapp3.1/CountArraySum.pdb
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/obj/Debug/netcoreapp3.1/CountArraySum.genruntimeconfig.cache

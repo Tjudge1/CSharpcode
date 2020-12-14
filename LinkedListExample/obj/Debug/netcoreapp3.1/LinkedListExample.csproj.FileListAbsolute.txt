@@ -1,0 +1,12 @@
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/LinkedListExample/bin/Debug/netcoreapp3.1/LinkedListExample.deps.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/LinkedListExample/bin/Debug/netcoreapp3.1/LinkedListExample.runtimeconfig.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/LinkedListExample/bin/Debug/netcoreapp3.1/LinkedListExample.runtimeconfig.dev.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/LinkedListExample/bin/Debug/netcoreapp3.1/LinkedListExample.dll
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/LinkedListExample/bin/Debug/netcoreapp3.1/LinkedListExample.pdb
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/LinkedListExample/obj/Debug/netcoreapp3.1/LinkedListExample.csprojAssemblyReference.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/LinkedListExample/obj/Debug/netcoreapp3.1/LinkedListExample.AssemblyInfoInputs.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/LinkedListExample/obj/Debug/netcoreapp3.1/LinkedListExample.AssemblyInfo.cs
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/LinkedListExample/obj/Debug/netcoreapp3.1/LinkedListExample.csproj.CoreCompileInputs.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/LinkedListExample/obj/Debug/netcoreapp3.1/LinkedListExample.dll
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/LinkedListExample/obj/Debug/netcoreapp3.1/LinkedListExample.pdb
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/LinkedListExample/obj/Debug/netcoreapp3.1/LinkedListExample.genruntimeconfig.cache
