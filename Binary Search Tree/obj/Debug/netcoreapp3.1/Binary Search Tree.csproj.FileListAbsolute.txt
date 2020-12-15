@@ -1,0 +1,12 @@
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Binary Search Tree/bin/Debug/netcoreapp3.1/Binary Search Tree.deps.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Binary Search Tree/bin/Debug/netcoreapp3.1/Binary Search Tree.runtimeconfig.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Binary Search Tree/bin/Debug/netcoreapp3.1/Binary Search Tree.runtimeconfig.dev.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Binary Search Tree/bin/Debug/netcoreapp3.1/Binary Search Tree.dll
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Binary Search Tree/bin/Debug/netcoreapp3.1/Binary Search Tree.pdb
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Binary Search Tree/obj/Debug/netcoreapp3.1/Binary Search Tree.csprojAssemblyReference.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Binary Search Tree/obj/Debug/netcoreapp3.1/Binary Search Tree.AssemblyInfoInputs.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Binary Search Tree/obj/Debug/netcoreapp3.1/Binary Search Tree.AssemblyInfo.cs
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Binary Search Tree/obj/Debug/netcoreapp3.1/Binary Search Tree.csproj.CoreCompileInputs.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Binary Search Tree/obj/Debug/netcoreapp3.1/Binary Search Tree.dll
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Binary Search Tree/obj/Debug/netcoreapp3.1/Binary Search Tree.pdb
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Binary Search Tree/obj/Debug/netcoreapp3.1/Binary Search Tree.genruntimeconfig.cache
