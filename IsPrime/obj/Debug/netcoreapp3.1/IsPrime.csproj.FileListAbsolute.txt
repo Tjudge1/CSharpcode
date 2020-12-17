@@ -1,0 +1,12 @@
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/IsPrime/bin/Debug/netcoreapp3.1/IsPrime.deps.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/IsPrime/bin/Debug/netcoreapp3.1/IsPrime.runtimeconfig.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/IsPrime/bin/Debug/netcoreapp3.1/IsPrime.runtimeconfig.dev.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/IsPrime/bin/Debug/netcoreapp3.1/IsPrime.dll
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/IsPrime/bin/Debug/netcoreapp3.1/IsPrime.pdb
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/IsPrime/obj/Debug/netcoreapp3.1/IsPrime.csprojAssemblyReference.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/IsPrime/obj/Debug/netcoreapp3.1/IsPrime.AssemblyInfoInputs.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/IsPrime/obj/Debug/netcoreapp3.1/IsPrime.AssemblyInfo.cs
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/IsPrime/obj/Debug/netcoreapp3.1/IsPrime.csproj.CoreCompileInputs.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/IsPrime/obj/Debug/netcoreapp3.1/IsPrime.dll
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/IsPrime/obj/Debug/netcoreapp3.1/IsPrime.pdb
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/IsPrime/obj/Debug/netcoreapp3.1/IsPrime.genruntimeconfig.cache
