@@ -1,0 +1,12 @@
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/BinarySearchTreeBFS search/bin/Debug/netcoreapp3.1/BinarySearchTreeBFS search.deps.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/BinarySearchTreeBFS search/bin/Debug/netcoreapp3.1/BinarySearchTreeBFS search.runtimeconfig.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/BinarySearchTreeBFS search/bin/Debug/netcoreapp3.1/BinarySearchTreeBFS search.runtimeconfig.dev.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/BinarySearchTreeBFS search/bin/Debug/netcoreapp3.1/BinarySearchTreeBFS search.dll
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/BinarySearchTreeBFS search/bin/Debug/netcoreapp3.1/BinarySearchTreeBFS search.pdb
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/BinarySearchTreeBFS search/obj/Debug/netcoreapp3.1/BinarySearchTreeBFS search.csprojAssemblyReference.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/BinarySearchTreeBFS search/obj/Debug/netcoreapp3.1/BinarySearchTreeBFS search.AssemblyInfoInputs.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/BinarySearchTreeBFS search/obj/Debug/netcoreapp3.1/BinarySearchTreeBFS search.AssemblyInfo.cs
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/BinarySearchTreeBFS search/obj/Debug/netcoreapp3.1/BinarySearchTreeBFS search.csproj.CoreCompileInputs.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/BinarySearchTreeBFS search/obj/Debug/netcoreapp3.1/BinarySearchTreeBFS search.dll
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/BinarySearchTreeBFS search/obj/Debug/netcoreapp3.1/BinarySearchTreeBFS search.pdb
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/BinarySearchTreeBFS search/obj/Debug/netcoreapp3.1/BinarySearchTreeBFS search.genruntimeconfig.cache

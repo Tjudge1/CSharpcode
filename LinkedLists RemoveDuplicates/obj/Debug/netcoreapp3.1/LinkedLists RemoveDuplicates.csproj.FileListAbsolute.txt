@@ -1,0 +1,12 @@
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/LinkedLists RemoveDuplicates/bin/Debug/netcoreapp3.1/LinkedLists RemoveDuplicates.deps.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/LinkedLists RemoveDuplicates/bin/Debug/netcoreapp3.1/LinkedLists RemoveDuplicates.runtimeconfig.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/LinkedLists RemoveDuplicates/bin/Debug/netcoreapp3.1/LinkedLists RemoveDuplicates.runtimeconfig.dev.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/LinkedLists RemoveDuplicates/bin/Debug/netcoreapp3.1/LinkedLists RemoveDuplicates.dll
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/LinkedLists RemoveDuplicates/bin/Debug/netcoreapp3.1/LinkedLists RemoveDuplicates.pdb
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/LinkedLists RemoveDuplicates/obj/Debug/netcoreapp3.1/LinkedLists RemoveDuplicates.csprojAssemblyReference.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/LinkedLists RemoveDuplicates/obj/Debug/netcoreapp3.1/LinkedLists RemoveDuplicates.AssemblyInfoInputs.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/LinkedLists RemoveDuplicates/obj/Debug/netcoreapp3.1/LinkedLists RemoveDuplicates.AssemblyInfo.cs
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/LinkedLists RemoveDuplicates/obj/Debug/netcoreapp3.1/LinkedLists RemoveDuplicates.csproj.CoreCompileInputs.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/LinkedLists RemoveDuplicates/obj/Debug/netcoreapp3.1/LinkedLists RemoveDuplicates.dll
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/LinkedLists RemoveDuplicates/obj/Debug/netcoreapp3.1/LinkedLists RemoveDuplicates.pdb
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/LinkedLists RemoveDuplicates/obj/Debug/netcoreapp3.1/LinkedLists RemoveDuplicates.genruntimeconfig.cache
