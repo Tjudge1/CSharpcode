@@ -1,0 +1,12 @@
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/RegexCode And Intro to Databases/bin/Debug/netcoreapp3.1/RegexCode And Intro to Databases.deps.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/RegexCode And Intro to Databases/bin/Debug/netcoreapp3.1/RegexCode And Intro to Databases.runtimeconfig.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/RegexCode And Intro to Databases/bin/Debug/netcoreapp3.1/RegexCode And Intro to Databases.runtimeconfig.dev.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/RegexCode And Intro to Databases/bin/Debug/netcoreapp3.1/RegexCode And Intro to Databases.dll
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/RegexCode And Intro to Databases/bin/Debug/netcoreapp3.1/RegexCode And Intro to Databases.pdb
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/RegexCode And Intro to Databases/obj/Debug/netcoreapp3.1/RegexCode And Intro to Databases.csprojAssemblyReference.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/RegexCode And Intro to Databases/obj/Debug/netcoreapp3.1/RegexCode And Intro to Databases.AssemblyInfoInputs.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/RegexCode And Intro to Databases/obj/Debug/netcoreapp3.1/RegexCode And Intro to Databases.AssemblyInfo.cs
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/RegexCode And Intro to Databases/obj/Debug/netcoreapp3.1/RegexCode And Intro to Databases.csproj.CoreCompileInputs.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/RegexCode And Intro to Databases/obj/Debug/netcoreapp3.1/RegexCode And Intro to Databases.dll
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/RegexCode And Intro to Databases/obj/Debug/netcoreapp3.1/RegexCode And Intro to Databases.pdb
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/RegexCode And Intro to Databases/obj/Debug/netcoreapp3.1/RegexCode And Intro to Databases.genruntimeconfig.cache
