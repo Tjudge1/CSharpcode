@@ -1,0 +1,12 @@
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Bitwise And Example/bin/Debug/netcoreapp3.1/Bitwise And Example.deps.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Bitwise And Example/bin/Debug/netcoreapp3.1/Bitwise And Example.runtimeconfig.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Bitwise And Example/bin/Debug/netcoreapp3.1/Bitwise And Example.runtimeconfig.dev.json
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Bitwise And Example/bin/Debug/netcoreapp3.1/Bitwise And Example.dll
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Bitwise And Example/bin/Debug/netcoreapp3.1/Bitwise And Example.pdb
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Bitwise And Example/obj/Debug/netcoreapp3.1/Bitwise And Example.csprojAssemblyReference.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Bitwise And Example/obj/Debug/netcoreapp3.1/Bitwise And Example.AssemblyInfoInputs.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Bitwise And Example/obj/Debug/netcoreapp3.1/Bitwise And Example.AssemblyInfo.cs
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Bitwise And Example/obj/Debug/netcoreapp3.1/Bitwise And Example.csproj.CoreCompileInputs.cache
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Bitwise And Example/obj/Debug/netcoreapp3.1/Bitwise And Example.dll
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Bitwise And Example/obj/Debug/netcoreapp3.1/Bitwise And Example.pdb
+/Users/borosaith/Desktop/CodeStuff/C#RelatedCode/Bitwise And Example/obj/Debug/netcoreapp3.1/Bitwise And Example.genruntimeconfig.cache

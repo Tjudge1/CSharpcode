@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Bitwise And Example/1.0.0": {
+        "runtime": {
+          "Bitwise And Example.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bitwise And Example/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
